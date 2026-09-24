@@ -2,7 +2,7 @@
 
 **Can you defend the network?** SOC Shift is a free, interactive game that puts you in the seat of a security analyst. Alerts arrive one at a time. Some are real attacks, some are harmless. Decide what to do before the clock runs out.
 
-**[▶ Play the live demo](https://github.com/LaughingGor0102/SOC-Tester/)**
+**[▶ Play the live demo](https://LaughingGor0102.github.io/SOC-Tester/)**
 
 No installation, no account, no experience needed. Works on phone and computer.
 
