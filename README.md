@@ -6,10 +6,6 @@
 
 No installation, no account, no experience needed. Works on phone and computer.
 
-## Run it locally
-
-Download `index.html` and open it in any browser.
-
 ## How to play
 
 1. Open the link and click **Start my shift**.
@@ -64,6 +60,10 @@ Entry-level security jobs ask for hands-on experience, but most people never get
 - Single-file app: plain HTML, CSS and JavaScript, no dependencies or build step
 - Responsive, with light and dark mode support
 - Hosted on GitHub Pages
+
+## Run it locally
+
+Download `index.html` and open it in any browser. (Leave the database empty if you only want to run it in your own device.)
 
 ## Add your own alerts
 
